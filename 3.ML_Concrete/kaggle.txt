@@ -1,4 +1,0 @@
-
-  1. https://www.kaggle.com/pavanraj159/predicting-compressive-strength-of-concrete
-
-  2. https://www.kaggle.com/mohan24/predicting-concrete-strength  --->  Simple with good ML results and code.

@@ -1,5 +1,0 @@
-
-
-  1. https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners  -  ML Basics
-
-  2. https://github.com/lozpdata/week02-Machine-learning-                     -  Dataset
