@@ -1,0 +1,7 @@
+
+
+ 1. https://heartdisease66.herokuapp.com/                                                      ---->      Web App for Heart disease using Flask  --- Jewel
+
+
+ 2. https://www.youtube.com/watch?v=bjsJOl8gz5k&list=PLZoTAELRMXVOAvUbePX1lTdxQR8EY35Z1        ---->      Deployment of Models- Premises VS IAAS vs PAAS cloud 
+                                                                                                          Platforms   ---- Krish Naik

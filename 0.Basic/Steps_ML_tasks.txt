@@ -1,0 +1,23 @@
+Steps to be followed in ML Task :
+----------------------------------
+
+1. Importing the Dataset 
+2. Checking Information
+3. Checking whether any characters are there 
+and if yes convert to Numeric - Enumeration process
+4.We will nurmaize the data and split it to test and train.
+# We choose to splite 30-70 because 
+we have a small data set and we want to have enught validetionn examples.
+# split data table into data X and class labels y.
+5. EDA process and Data Visualisation Process :
+	- Calculate Coreleation Matrix.
+	- Drawing heatmap.
+	-Helping function Creation.
+6. Doing PCA analysis : Principal component analysis (PCA) is a technique 
+used to emphasize variation and bring out strong patterns in a dataset.
+we use it first make data easy to explore and visualize.
+7.Define The Algorithms :
+First we will run eatch algorithem on all the features
+then we will use SFS to compere and cheack improvment. We will use sfs 
+to take aoutimaticaly from 1 to 5 features as the algorithm sujects.
+8. Showing Results in Tabular and graphical formats.

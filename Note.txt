@@ -1,0 +1,29 @@
+
+1. Learn python from scratch till tuesday
+
+
+2. How many libraries are there in python for DS
+
+      - what is it used for?
+
+      - how it is used for?
+
+
+3. Data visualisation
+
+4. ML algorithms - For all
+
+5. EDA -> 
+
+6. MS EXCEL
+
+    
+
+      FLASK
+
+      DJANGO
+
+
+
+
+     
